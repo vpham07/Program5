@@ -1,0 +1,1 @@
+genesequencer.o: genesequencer.cpp
